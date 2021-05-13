@@ -1,4 +1,4 @@
-# github-codescan
+# github-codescan.
 
 This repository contains code samples for github code scanning utility, this is a sample repository for my blog post:
 
